@@ -1,0 +1,1 @@
+- Datasheet: [link](Document/ESP-WROOM-32.PDF)
